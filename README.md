@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrypatel01&label=Profile%20views&color=0e75b6&style=flat" alt="harrypatel01" /> </p>
 
-- 🔭 I’m currently working on **vehicle Collisions crash**
+- 🔭 I’m currently looking for **opportunity**
 
 - 🌱 I’m currently learning **Data analysis**
 
