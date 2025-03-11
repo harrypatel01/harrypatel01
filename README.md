@@ -16,7 +16,6 @@
 <p align="center">
   <img height="195" width="auto" src="https://github-readme-stats.vercel.app/api?username=harrypatel01&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false">
   <img height="195" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrypatel01&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-  <img height="195" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=harrypatel01&theme=material-palenight&hide_border=false">
 
   <br>
   <br>
