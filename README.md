@@ -2,7 +2,7 @@
 
 - 🎯 Currently pursuing MBA IT Project Management at Westcliff University Irvine,USA. 
 
-- :mortar_board: master scince graduate from Sardar patel university
+- :mortar_board: Master Scince graduate from Sardar patel university
 
 - :blue_book: Passionate about learning new technologies, especially related to Data Science!
   
