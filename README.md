@@ -1,4 +1,4 @@
-<h1 >Hello! I'm Faizan Mulla <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"width="30px"></h1> 
+<h1 >Hello! I'm Hardik Gediya <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"width="30px"></h1> 
 
 - 🎯 Currently pursuing MBA IT Project Management at Westcliff University Irvine,USA. 
 
