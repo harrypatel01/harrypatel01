@@ -14,14 +14,12 @@ data accessibility, enabling real-time decision-making, and supporting business 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📊 GitHub status :
-<div style="display: flex; justify-content: center; gap: 20 ;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=harrypatel01&theme=merko&hide_border=false&include_all_commits=false&count_private=false" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=harrypatel01&theme=merko&hide_border=false" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrypatel01&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> 
   Visitors count <br><br>
