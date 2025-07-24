@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Hardik Gediya<br>🚀 Data Analytics | Business Analysis | project management <br><br>🔍 Results-driven Project Analyst with expertise in Business Intelligence (BI) solutions, data analysis, and process optimization. 
+👋 Hi, I'm Hardik Gediya<br>🚀 Data Analytics | Business Analysis | project management <br><br>🔍 Results-driven business Analyst with expertise in Business Intelligence (BI) solutions, data analysis, and process optimization. 
 Proficient in SQL, Python, and Excel for data extraction, cleaning, and analysis. Skilled in translating business requirements into 
 actionable documentation and collaborating with stakeholders to drive project success. Experienced in automating data processes, 
 reducing manual tasks, and streamlining workflows to improve efficiency and reporting accuracy. Strong track record of enhancing 
